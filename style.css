@@ -6,6 +6,7 @@ body {
                       linear-gradient(to top, #127ab1, #1799e0, #1796db);
     background-size: cover;
     margin-bottom: 0px!important;
+    align-content: center;
 }
 div{
     font-family: 'Geomanist', sans-serif;
@@ -16,4 +17,8 @@ div{
     position: relative;
     top: 30%;
     transform: translateY(-50%);
+}
+.big{
+    font-size: 20;
+    color: green;
 }
