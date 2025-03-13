@@ -20,5 +20,5 @@ div{
 }
 .big{
     font-size: 5rem;
-    color: green;
+    color: rgb(255, 0, 0) !important;
 }
